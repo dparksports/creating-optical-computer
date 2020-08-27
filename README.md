@@ -1,8 +1,6 @@
 # Creating an optical computer
 Notes on Creating an optical computer.
 
-@ Copyright, 2020, Dan Park, All rights reserved.
-
 # Q & A
 1. What is an optical computer?
 
@@ -73,5 +71,6 @@ Notes on Creating an optical computer.
 - We discovered ways to overcome the limitations of the current state of technologies.
 
 
+@ Copyright, 2020, Dan Park, All rights reserved.
 
  

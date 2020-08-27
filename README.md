@@ -1,5 +1,5 @@
 # Creating an optical computer
-Notes on Creating an optical computer.
+Note on creating an optical computer.
 
 # Q & A
 1. What is an optical computer?

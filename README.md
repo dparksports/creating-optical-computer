@@ -13,7 +13,7 @@ Notes on Creating an optical computer.
 - With an optical computer, there is no artificial limitation like 2000 or 500 qubits.
 
 3. What's the theoretical compute limit on an optical computer?
-- There is a limit of speed of light, but we can get around that, easily.
+- There is a limit of speed of light, but that's not a limitation for us.
 - For now, the only artificial limitation is how we design the first prototype, but its limit can be easily removed on the next version of the prototype.
 
 4. How much electricity energy does it require?

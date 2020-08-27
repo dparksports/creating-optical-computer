@@ -68,7 +68,6 @@ Notes on Creating an optical computer.
 17. How long have you been working on this?
 - This idea has been with me for some time.
 - Our technology isn't ready.
-- We discovered ways to overcome the limitations of the current state of technologies.
 
 
 @ Copyright, 2020, Dan Park, All rights reserved.

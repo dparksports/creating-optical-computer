@@ -30,7 +30,7 @@ Notes on Creating an optical computer.
 - Depends on the funding.
 
 8. How many people do we need?
-- After first constructing the first POC, we will need to scale it for mass production.  For that, we will need help of other people.
+- After first constructing the first POC, we will need to scale it for mass production.  For that, we will need help of others.
 
 9. Will you patent it?
 - Yes

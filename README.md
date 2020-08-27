@@ -4,7 +4,7 @@ Note on creating an optical computer.
 # Q & A
 1. What is an optical computer?
 
-- A modern desktop computer has about 5 TFLOPS (5 x 10^16 floating calculations per second).  
+- A modern desktop computer can compute about 5 TFLOPS (5 x 10^16 floating calculations per second).  
 - With an optical computer, there is no limit in the calcuations per second. 
 
 2. Is an optical computer faster than a quantuam computer?

@@ -16,7 +16,7 @@ Notes on Creating an optical computer.
 - There is a limit of speed of light.
 - For now, the only artificial limitation is how we design the first prototype.
 
-4. How much electricity energy does it require?
+4. How much energy does it use?
 - The first POC should use less than 1000 W/hr.
 
 5. Has there been any prior inventions or work being done?

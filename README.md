@@ -63,13 +63,14 @@ Note on creating an optical computer.
 - It will be one-watt optical computer with vast compute performance.
 - Imagine it being embedded in Apple Glasses, for example.
 - It will enable the compute hungry wearable devices, while enabling the Apple Glasses to last days, not few hours, on a single charge.
-- It won't be a simplistic, dumb-down Apple Glasses expected to be delivered in 2021, but really sophisticated Apple Glasses with much intelligent capabilities.
+- Without an optical computer's vast compute capability, Apple Glasses would be very simplistic, and its capability will be dumb-down, until we have either thicker battery on the glasses frame or much more powerful CPU tethered by a wired to a separate battery pack.
+- With an optical computer embedded in the glasses frame, Apple Glasses will be a dream of a really sophisticated glasses frame with much intelligent capabilities.
 - The optical computer applications are really limited only by our imagination.
 
 17. How long have you been working on this?
 - This idea has been with me for some time.
-- Our technology isn't ready, but we have found few ways to make it happen.
-
+- Our technology isn't ready, but we have found some ways to make it happen.
+-
 
 @ Copyright, 2020, Dan Park, All rights reserved.
 

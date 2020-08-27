@@ -1,7 +1,7 @@
 # creating-optical-computer
 Notes of Creating an optical computer.
 
-#Q & A
+# Q & A
 1. What is an optical computer?
 
 - A modern desktop computer has about 5 TFLOPS (5 x 10^16 floating calculations per second).  

@@ -57,7 +57,7 @@ Notes on Creating an optical computer.
 
 16. Can you provide few examples, where the infinite compute capability of an optical computer may be helpful?
 - One example is AGI, the General AI, the holygrail of AI, which will require vast amount of compute capabilty.
-- But we discover that we can easily make an optical computer running on one watt (1 watt).
+- But we discovered that we can easily make an optical computer running on one watt (1 watt).
 
 17. What can we do with one-watt optical computer?
 - It will be one-watt optical computer with vast compute performance.

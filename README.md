@@ -13,17 +13,15 @@ Notes on Creating an optical computer.
 - With an optical computer, there is no artificial limitation like 2000 or 500 qubits.
 
 3. What's the theoretical compute limit on an optical computer?
-- There is a limit of speed of light, but that's not a limitation for us.
-- For now, the only artificial limitation is how we design the first prototype, but its limit can be easily removed on the next version of the prototype.
+- There is a limit of speed of light.
+- For now, the only artificial limitation is how we design the first prototype.
 
 4. How much electricity energy does it require?
 - The first POC should use less than 1000 W/hr.
-- For the first prototype, we should be able to construct it to use less than that of a typical household refrgierator.
 
 5. Has there been any prior inventions or work being done?
-- There are some filed in the past.
-- There were limited by our current state of art technologies.
-- And, they can't be constructed in real sense.
+- There are some filed in the patents.
+- They can't really be constructed in real sense.
 
 6. Can we construct it now?
 - Yes
@@ -32,7 +30,7 @@ Notes on Creating an optical computer.
 - Depends on the funding.
 
 8. How many people do we need?
-- After first constructing the first POC, we will need to scale it for mass production.  For that, we will need help of other people to mass produce it and distribute it.
+- After first constructing the first POC, we will need to scale it for mass production.  For that, we will need help of other people.
 
 9. Will you patent it?
 - Yes
@@ -47,7 +45,7 @@ Notes on Creating an optical computer.
 - It uses the properties of a photon to deliever infinite compute capability.
 
 13. Will it use the current state of Silicon chip fabrication?
-- Probably not. 
+- First prototype will use chips, but in the future, we will probably have less dependency on chips.
 - It's a new technology.
 
 14. What are the limitations of the first POC?
@@ -55,18 +53,22 @@ Notes on Creating an optical computer.
 - These limitations will be removed by re-iterating the design of an optical computer.
 
 15. What can we do with an optical computer?
-- One of the advantages is an optical computer doesn't require much energy to deliver the compute capability.
+- One of the advantages is an optical computer doesn't require much energy to deliver the infinite compute capability.
 
-16. Can you provide few examples, where an optical computer may be helpful?
-- We can design an optical computer which can run on one watt (1w/hr) with superior compute performance.
-- This can be embedded in Apple Glasses, for example, to enable the compute hungry wearable devices, while masking the Apple Glasses to last days, not few hours, on a single charge.
-- Another example is AGI embedded within a comsumer product.
-- AGI is General AI, the holygrail of AI.
+16. Can you provide few examples, where the infinite compute capability of an optical computer may be helpful?
+- One example is AGI, the General AI, the holygrail of AI, which will require vast amount of compute capabilty.
+- But we discover that we can easily make an optical computer running on one watt (1 watt).
+
+17. What can we do with one-watt optical computer?
+- It will be one-watt optical computer with vast compute performance.
+- Imagine it is embedded in Apple Glasses, for example.
+- It will enable the compute hungry wearable devices, while enabling the Apple Glasses to last days, not few hours, on a single charge.
+- Applications are limited by only our imagination.
 
 17. How long have you been working on this?
 - This idea has been with me for some time.
 - Our technology isn't ready.
-- I solved these limitations to overcome the limitations of the SOTA technologies.
+- We discovered ways to overcome the limitations of the SOTA technologies.
 
 
 

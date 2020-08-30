@@ -98,7 +98,7 @@ Besides Apple Glass like wearable devices, there are numerous use cases for an o
 Stay tuned for the second blog on Optical computer, where I will visit on the use cases.
 
 ## How long have you been working on this?
-This idea has been with me for some time.
-The current state of technology is ready to support a new technolgy like Optical Computer.
-However, we have found some ways to overcome the  limitations of the current state of technology to make it happen.
+This idea has been with me for some time. And, I faced the same challenges with the prior art.
+The current state of technology is not really ready to support a new technolgy like Optical Computer.
+However, we have found some ways to overcome these limitations.
 To make it happen, we are seeking the first round of seed funding.

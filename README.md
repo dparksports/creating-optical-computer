@@ -65,8 +65,7 @@ An optical computer can run on one watt (1w) or less to provide infinite compute
 With it, you can create an iPhone entirely with a transparent glass.  
 
 
-
-C## an you provide few examples, where the infinite compute capability of an optical computer may be helpful?
+## Can you provide few examples, where the infinite compute capability of an optical computer may be helpful?
 One example is AGI, the General AI, the holygrail of AI, which will require vast amount of compute capabilty.*
 With an optical computer, AGI is within the reach for humanity.  Of course, that solves one side the equation.  Another is we still need to solve AGI, in general, using a super computer, first.  
 AGI can run on one optical computer, because it is a super computer.
@@ -101,5 +100,5 @@ Stay tuned for the second blog on Optical computer, where I will visit on the us
 ## How long have you been working on this?
 This idea has been with me for some time.
 The current state of technology is ready to support a new technolgy like Optical Computer.
-However, we have found some ways to overcome the  limitations of the current state of technologies to make it happen.
+However, we have found some ways to overcome the  limitations of the current state of technology to make it happen.
 To make it happen, we are seeking the first round of seed funding.
